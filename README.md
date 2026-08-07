@@ -1,4 +1,4 @@
-# Power Amplifier and Filter for HF Radio Transceiver
+# Power Amplifier and Filter Design for HF Radio Transceiver
 
 ## Project Description
 
