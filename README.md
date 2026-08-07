@@ -1,4 +1,6 @@
-# Power Amplifier and Filter for HF Radio Transceiver
+# Power Amplifier and Filter Design for HF Radio Transceiver
+
+## Project Description
 
 ## Design Description
 Find [Step_Two_Design_Decisions.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/Step_Two_Design_Decisions.pdf) for a quick summary.
