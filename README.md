@@ -3,7 +3,7 @@
 ## Project Description
 
 ## Design Description
-Find [Step_Two_Design_Decisions.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/Step_Two_Design_Decisions.pdf) for a quick summary.
+Find [Design Description.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/Design%20Description.pdf) for the full details.
 
 ## Schematic Capture
 <img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20Schematic.png" />
