@@ -22,18 +22,18 @@ It also has to know when to stay quiet. The radio shares one antenna between tra
 
 ## Design Description
 
-For a quick overview of the key choices and the reasoning behind them, see [Summary of Design Decisions.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/Summary%20of%20Design%20Decisions.pdf).
+For a quick overview of the key choices and the reasoning behind them, see [Summary of Design Decisions.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/Summary%20of%20Design%20Decisions.pdf).
 
-For the complete stage-by-stage breakdown, see [Full Design Description.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/Full%20Design%20Description.pdf).
+For the complete stage-by-stage breakdown, see [Full Design Description.pdf](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/Full%20Design%20Description.pdf).
 
 ## Schematic Capture
 
-<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20Schematic.png" />
+<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20Schematic.png" />
 
 ## PCB Capture
 
-<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB.png" />
-<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Two.png" />
-<!--  <img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Three.png" /> -->
-<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Four.png" />
-<!-- <img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Five.png" /> -->
+<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB.png" />
+<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Two.png" />
+<!--  <img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Three.png" /> -->
+<img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Four.png" />
+<!-- <img width="1937" height="1281" alt="image" src="https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver/blob/main/images/Current%20PCB%20Five.png" /> -->
